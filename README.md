@@ -7,7 +7,7 @@ To run this project you will have to follow the steps below:
 3. run the command “supabase start”
 4. create a .env file as suggested in the .env.example file and from the terminal console add your supabase keys and API URL ro the NEXT_PUBLIC_SUPABASE_URL.
 6. run the command “psql -h localhost -p 54322 -U postgres -d postgres -f seed.sql”
-7. It will ask you for password, enter your postgres password (mine was postgres itself).
+7. It will ask you for password, enter your postgres password (mine was "postgres").
 8. Now inside the createUser.js in the root directory paste the service_role key in the given variable and run that file using command “node createUser.js”
 9. open the link from the terminal that says Studio URL.
 If not visible in the terminal anymore you can easiy access all the keys and DB url by running the command “supabase status”.
