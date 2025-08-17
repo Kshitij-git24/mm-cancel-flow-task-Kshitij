@@ -17,6 +17,11 @@ VIDEO LINK TO THE ENTIRE PROCESS:
 https://www.loom.com/share/ec0d2f6aca994752b26380f673ede4e7?sid=0fa3f1db-21b9-4e22-b6de-4e5af198f095
 (it's me following the above steps for you to see ;) )
 
+
+We can also connect over a quick google meet to talk about this and I can walk you through the entire cancel subscription workflow.
+I personally think that would be a great way to deliver this.
+
+
 Further aspects kept in mind while coding:
 Use of Context
 
