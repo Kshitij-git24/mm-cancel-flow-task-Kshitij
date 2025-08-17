@@ -5,13 +5,13 @@ To run this project you will have to follow the steps below:
 1. Clone the repository
 2. run the command “npm install”
 3. run the command “supabase start”
-4. create a .env file as suggested in the .env.example file and from the console add your supabase keys and API URL ro the NEXT_PUBLIC_SUPABASE_URL.
-5. run the command “psql -h localhost -p 54322 -U postgres -d postgres -f seed.sql”
-6. It will ask you for password, enter your postgres password (mine was postgres itself).
-7. Now inside the createUser.js in the root directory paste the service_role key in the given variable and run that file using command “node createUser.js”
-8. open the link from the terminal that says Studio URL.
+4. create a .env file as suggested in the .env.example file and from the terminal console add your supabase keys and API URL ro the NEXT_PUBLIC_SUPABASE_URL.
+6. run the command “psql -h localhost -p 54322 -U postgres -d postgres -f seed.sql”
+7. It will ask you for password, enter your postgres password (mine was postgres itself).
+8. Now inside the createUser.js in the root directory paste the service_role key in the given variable and run that file using command “node createUser.js”
+9. open the link from the terminal that says Studio URL.
 If not visible in the terminal anymore you can easiy access all the keys and DB url by running the command “supabase status”.
-9. run the command “npm run dev” and the web app is ready for testing. You can track the data being changed and persisted in the DB URL where you will see the entries belonging to the testuser changing as you interact with the app.
+10. run the command “npm run dev” and the web app is ready for testing. You can track the data being changed and persisted in the DB URL where you will see the entries belonging to the testuser changing as you interact with the app.
 
 VIDEO LINK TO THE ENTIRE PROCESS:
 https://www.loom.com/share/ec0d2f6aca994752b26380f673ede4e7?sid=0fa3f1db-21b9-4e22-b6de-4e5af198f095
