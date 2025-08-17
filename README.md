@@ -13,6 +13,9 @@ To run this project you will have to follow the steps below:
 If not visible in the terminal anymore you can easiy access all the keys and DB url by running the command “supabase status”.
 9. run the command “npm run dev” and the web app is ready for testing. You can track the data being changed and persisted in the DB URL where you will see the entries belonging to the testuser changing as you interact with the app.
 
+VIDEO LINK TO THE ENTIRE PROCESS:
+https://www.loom.com/share/ec0d2f6aca994752b26380f673ede4e7?sid=0fa3f1db-21b9-4e22-b6de-4e5af198f095
+(it's me following the above steps for you to see ;) )
 
 Further aspects kept in mind while coding:
 Use of Context
